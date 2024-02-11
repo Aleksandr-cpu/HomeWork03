@@ -6,6 +6,7 @@ import list.core.lists.LinkList;
 public class LinkListMain {
     public static void main(String[] args) {
         GBList<Integer> lst = new LinkList<>();
+
         lst.add(1);
         lst.add(2);
         lst.add(3);
